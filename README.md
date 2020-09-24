@@ -14,6 +14,7 @@ Hyper-V:https://github.com/CosmosOS/Cosmos/raw/master/build/HyperV/Filesystem.vh
 4. (Optional) Set up the virtual machine using the special harddrive
 
 RECOMMENDED REQUIREMENTS:
+
 -RAM:256MB +
 
 -HARDDRIVE: (IDE) Fat32 0.5gb - 16gb
