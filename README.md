@@ -12,3 +12,11 @@ VMware:https://github.com/CosmosOS/Cosmos/raw/master/build/VMWare/Workstation/Fi
 Hyper-V:https://github.com/CosmosOS/Cosmos/raw/master/build/HyperV/Filesystem.vhdx
 
 4. (Optional) Set up the virtual machine using the special harddrive
+
+RECOMMENDED REQUIREMENTS:
+RAM:256MB +
+HARDDRIVE: (IDE) Fat32 0.5gb - 16gb
+Ps/2 Keyboard (NEEDED FOR REAL COMPUTER)
+
+WARNING:
+DO NOT USE FILESYSTEM COMMANDS ON REAL HARDWARE. IT MAY DAMAGE YOUR HARD DRIVE (also it might not work if drive is too big)
