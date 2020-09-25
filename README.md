@@ -1,7 +1,7 @@
 # Sia-OS
 A Command Line Operating System created in C# using Cosmos OS
 
-HOW TO INSTALL SIA OS:
+HOW TO RUN SIA OS:
 
 1. Download Sia OS iso
 
