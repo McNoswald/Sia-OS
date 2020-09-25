@@ -23,3 +23,5 @@ RECOMMENDED REQUIREMENTS:
 
 WARNING:
 DO NOT USE FILESYSTEM COMMANDS ON REAL HARDWARE. IT MAY DAMAGE YOUR HARD DRIVE (also it might not work if drive is too big)
+
+Code for OS coming soon
