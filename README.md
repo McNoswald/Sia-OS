@@ -11,7 +11,7 @@ HOW TO INSTALL SIA OS:
 VMware:https://github.com/CosmosOS/Cosmos/raw/master/build/VMWare/Workstation/Filesystem.vmdk
 Hyper-V:https://github.com/CosmosOS/Cosmos/raw/master/build/HyperV/Filesystem.vhdx
 
-4. (Optional) Set up the virtual machine using the special harddrive
+4. (Harddrive is Optional) Set up the virtual machine using the special harddrive
 
 RECOMMENDED REQUIREMENTS:
 
