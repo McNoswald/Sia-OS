@@ -1,0 +1,33 @@
+Commands in Sia OS 1.0
+(Some Text in the OS is not correct so here is the updated list)
+
+-cmd Lists all commands
+-about About the OS 
+-cls Clears Screen
+-echo Repeats Text
+-gui Starts the W.I.P GUI (works only on VMware)
+-drive Displays Drive (only detects ONE) info
+-dir Displays all files and sub-dirs in current directory
+-mkdir Creates a directory (Unstable)
+-rmdir Removes a directory (Unstable)
+-cd Changes current directory
+-open types out the content of a file
+-del deletes a file
+-copy copies file to directory
+-time displays time
+-piano Piano Program
+-mkcal creates a calender
+-chkcal checks for a calender
+-calc Simple Calculator
+-text Create a file
+-numguess Number guessing game
+-shutdown powers off the pc
+-restart restarts the pc
+
+How to use some of the commands:
+
+CD - Uses: CD FULLPATH  CD DIR (CD .. does not exist yet. I'm currently trying to find out how to make it work)
+COPY - How this works is you must type COPY FILE.EXT and only that. It will ask for the directory after you press enter. You must input the full Path of where you want to copy
+MKCAL - Only type the command, it will ask for the date of the calender (must be in MM-DD-YY format). It will use that as the file name. Then you must type out every event for every hour.
+CHKCAL - Only type the command, it will after ask what day to check for and will tell you if there is one.
+TEXT - Only type the command, it will after ask for the file name and extension.
