@@ -1,4 +1,7 @@
 # Sia-OS
+
+|SIA OS 1.1 COMING SOON, VIEW THE "VERSION1.1" FILE IN THE UPDATES DIRECTORY|
+
 A Command-Line Operating System created in C# using Cosmos OS
 
 HOW TO RUN SIA OS:
