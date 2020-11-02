@@ -16,8 +16,6 @@ FEATURES (of V1.0):
 
   -Simple Programs (Time, Calc, Calender, Piano)
 _______________________________________
-
-_______________________________________
 HOW TO RUN SIA OS:
 
 1. Download Sia OS iso
@@ -32,7 +30,6 @@ Note: The FS does not work on Real hardware. It will just be very broken, and yo
 VMware:https://github.com/CosmosOS/Cosmos/raw/master/build/VMWare/Workstation/Filesystem.vmdk
 
 Hyper-V:https://github.com/CosmosOS/Cosmos/raw/master/build/HyperV/Filesystem.vhdx
-_______________________________________
 
 _______________________________________
 REQUIREMENTS:
