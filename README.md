@@ -4,6 +4,19 @@
 
 A Command-Line Operating System created in C# using CosmosOS
 
+FEATURES (of V1.0):
+
+  -File System (Buggy)
+
+  -Power Commands
+
+  -W.I.P GUI (VMware only)
+
+  -Extremely simple file creator
+
+  -Simple Programs (Time, Calc, Calender, Piano)
+
+
 HOW TO RUN SIA OS:
 
 1. Download Sia OS iso
@@ -30,10 +43,3 @@ REQUIREMENTS:
 
 WARNING:
 DO NOT USE ON REAL HARDWARE. IT MAY DAMAGE YOUR HARD DRIVE (It doesn't work on real hardware anyways. :/)
-
-Features (of V1.0):
--File System (Buggy)
--Power Commands
--W.I.P GUI (VMware only)
--Extremely simple file creator
--Simple Programs (Time, Calc, Calender, Piano)
