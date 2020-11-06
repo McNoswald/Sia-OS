@@ -1,6 +1,6 @@
 # Sia-OS
 
-|SIA OS 1.1 COMING SOON, VIEW THE "VERSION1.1" FILE IN THE UPDATES DIRECTORY|
+|SIA OS 1.1 PRE-RELEASE IS HERE. YOU CAN NOW TEST IT FOR YOUR SELF|
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
