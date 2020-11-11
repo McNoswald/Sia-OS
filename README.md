@@ -1,18 +1,18 @@
 # Sia-OS
 
-|SIA OS 1.1 PRE-RELEASE IS HERE. YOU CAN NOW TEST IT FOR YOUR SELF|
+|SIA OS 1.1 HAS JUST RELEASED|
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
-FEATURES (of V1.0):
+FEATURES (of V1.1):
 
   -File System (Buggy)
 
   -Power Commands
 
-  -W.I.P GUI (VMware only)
-
-  -Extremely simple file creator
+  -Miv Text Editor
+  
+  -Setup
 
   -Simple Programs (Time, Calc, Calender, Piano)
 _______________________________________
