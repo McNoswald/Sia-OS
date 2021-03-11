@@ -4,7 +4,7 @@
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
-FEATURES (of V1.1):
+FEATURES (of V1.1): 
 
   -File System (Buggy)
 
