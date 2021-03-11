@@ -1,6 +1,6 @@
 # Sia-OS
 
-|SIA OS 1.1 HAS JUST RELEASED|
+|SIA OS 1.1 has been release a long time for some reason the readme file never updated when I changed it|
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
