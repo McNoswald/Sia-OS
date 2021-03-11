@@ -1,6 +1,6 @@
 # Sia-OS
 
-|SIA OS 1.1 has been release a long time for some reason the readme file never updated when I changed it|
+|SIA OS 1.1 has been released a long time for some reason the readme file never updated when I changed it|
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
@@ -36,7 +36,7 @@ REQUIREMENTS:
 
   -RAM: 256MB
 
-  -HARDDRIVE: (IDE), Fat32, (Maximum Storage unknown so I suggest 16gb and lower.)
+  -HARDDRIVE: (IDE), Fat32, (Maximum Storage is unknown so I suggest 16gb and lower.)
 
   -Ps/2 Keyboard/Mouse (NEEDED FOR REAL COMPUTER)
 
