@@ -1,6 +1,6 @@
 # Sia-OS
 
-|SIA OS 1.1 has been released a long time for some reason the readme file never updated when I changed it|
+# This is an old project full of crappy and some straight-up "borrowed" code.
 
 A Command-Line Operating System created in C# using CosmosOS
 _______________________________________
